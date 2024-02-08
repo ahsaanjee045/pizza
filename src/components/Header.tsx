@@ -97,10 +97,6 @@ const Header = () => {
                     <div className="cursor-pointer block md:hidden">
                         <MenuIcon className="stroke-[#FF5331] stroke-[3px] w-[25px] h-[25px] " />
                     </div>
-
-                    <div className="bg-cyan-700 translate-x-[0%]">
-                                    hello
-                    </div>
                 </div>
             </div>
         </div>
