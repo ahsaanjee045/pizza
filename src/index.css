@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* background: linear-gradient(0deg, #191720, #191720),
+linear-gradient(0deg, #FF5331, #FF5331);
+
+background: linear-gradient(0deg, #009B00, #009B00),
+linear-gradient(0deg, #323232, #323232),
+linear-gradient(0deg, #FF5331, #FF5331);
+
+background: #494949;
+
+background: #2E2C49;
+how to order
+
+background: #FF5331;
+
+background: #111111;
+ours clients
+
+background: #000000;
+the food at ..
+
+background: #616161;
+ceo
+
+ background: #FF5331;
+button
+
+background: #B5B2B2;
+
+background: #E94339;
+sign up
+
+background: #FFEFEC;
+footer */
